@@ -1,0 +1,30 @@
+.profile {
+	padding: 56px 20px;
+	min-height: 100%;
+	width: 100%;
+}
+.navpan{
+	display: flex;
+    justify-content: end;
+}
+.active {
+	text-align: center;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+    border-radius: 50%;
+    border: solid 1px #ccc;
+	color: #ccc;
+	margin:10px;
+}
+.nav {
+	text-align: center;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+    border-radius: 50%;
+    color: rgb(13, 128, 221);
+	border: solid 1px rgb(13, 128, 221);
+	margin:10px;
+	cursor: pointer;
+}
